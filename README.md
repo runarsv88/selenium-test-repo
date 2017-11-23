@@ -1,2 +1,2 @@
 Read this thing here first.
-Then try this [link](https://visir.is)
+Then try this [link](https://www.visir.is)
